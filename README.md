@@ -1,4 +1,4 @@
-# MERN stack shopping cart
+# Laptop Center
 
 <img src="githubImg/mobile_shop.jpg"/>
 
